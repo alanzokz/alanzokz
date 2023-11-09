@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alanzokz
+- 👀 I’m interested in Artificial Inteligence
+- 🌱 I’m currently learning JavaScript, MySQL Workbench, HTML and CSS
+- 💞️ I am looking to collaborate with those who are interested in Artificial Intelligence and are students in the 1st to 3rd year of high school
+- 📫 How to reach me davi85582@gmail.com or +5519999398232(whatsapp)
